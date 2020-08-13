@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'JObberCore Test',
+  title: 'JObberCore  Site',
   tagline: 'All in one Tool to Schedue and Run your jobs',
   url: 'https://balajikummari.github.io', 
   baseUrl: '/docusaurusGenisis/',
