@@ -2,7 +2,7 @@ module.exports = {
   title: 'JObberCore Test',
   tagline: 'All in one Tool to Schedue and Run your jobs',
   url: 'https://balajikummari.github.io', 
-  baseUrl: '/',
+  baseUrl: '/docusaurusGenisis/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'balajikummari', // Usually your GitHub org/user name.
