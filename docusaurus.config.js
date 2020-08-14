@@ -95,7 +95,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/balajikummari/docusaurusGenisis/tree/documentation/blog/',
+            'https://github.com/balajikummari/docusaurusGenisis/tree/documentation/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
